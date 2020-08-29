@@ -1,8 +1,10 @@
 {
   "resources": [
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
+    {"id":{"name":"o_recolt_parent","path":"objects/o_recolt_parent/o_recolt_parent.yy",},"order":0,},
     {"id":{"name":"s_tree","path":"sprites/s_tree/s_tree.yy",},"order":1,},
     {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},"order":2,},
+    {"id":{"name":"o_text","path":"objects/o_text/o_text.yy",},"order":2,},
     {"id":{"name":"s_wood","path":"sprites/s_wood/s_wood.yy",},"order":0,},
     {"id":{"name":"o_collectible","path":"objects/o_collectible/o_collectible.yy",},"order":0,},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},"order":0,},
@@ -49,6 +51,7 @@
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sequences.yy","order":1,"resourceVersion":"1.0","name":"Sequences","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":2,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Recolt.yy","order":5,"resourceVersion":"1.0","name":"Recolt","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
